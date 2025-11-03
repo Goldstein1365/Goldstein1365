@@ -28,9 +28,8 @@ Currently focused on building **Unifyr** – a multi-service business platform t
 ### 💼 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Unifyr](https://github.com/Devstein1365/Unifyr) | Multi-service business platform | React, Node.js, Tailwind |
-| [Gifted Mind Academy](#) | Interactive quiz platform | React, Express, MongoDB |
-| [Agent App](#) | Campus marketplace app | MERN Stack |
+| [Unifyr]([https://github.com/Devstein1365/Unifyr](https://github.com/Devstein1365/unifyr_frontend)) | Multi-service business platform | MERN Stack |
+| [Wonertix](https://github.com/Devstein1365/wondertix) | Online ticketing platform | React, Tailwind, Local-Storage |
 | [Online Clearance System](https://github.com/Devstein1365/Online-Clearance-System) | Clearance portal for students | PHP, MySQL, JS |
 
 ---
